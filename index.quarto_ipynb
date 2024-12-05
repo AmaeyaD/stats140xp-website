@@ -1,0 +1,54 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Projects\"\n",
+        "toc: false\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "### Stats 102C Assignments\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "``` {yaml}\n",
+        "listing: \n",
+        "  - id: 102c-listing\n",
+        "    contents: \n",
+        "      - \"/102c/*.Rmd\"\n",
+        "    sort: true\n",
+        "    sort-ui: false\n",
+        "    filter-ui: false\n",
+        "    type: table\n",
+        "    fields: \n",
+        "      - title\n",
+        "    categories: false\n",
+        "```\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        ":::102c-listing\n",
+        ":::\n",
+        "\n",
+        "### Stats 102B Assignments\n"
+      ],
+      "id": "91c5315a"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

@@ -1,9 +1,34 @@
 ---
-title: "About"
+title: "Amaeya Deshpande"
+toc: false
+about:
+  template: trestles
+  image: profile_pic.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/AmaeyaD
+    - icon: linkedin
+      text: LinkedIn
+      url: "https://www.linkedin.com/in/amaeya-deshpande-0293a825b/"
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:amaeyadeshpande@gmail.com"
+
 ---
 
-About this site
+## About
 
-```{r}
-1 + 1
-```
+Amaeya Deshpande is a statistics and data science student at UCLA. He is finalizing his fourth years of undergraduate studies and pursuing a Master's program in data science. He currently works for the customer workflow provider ServiceNow as a software engineer. His interests include machine learning, computational statistics, and sports analytics.
+
+## Education
+
+University of California, Los Angeles | Los Angeles, CA
+M.S in Statistics and Data Science | Sept 2021 - Present
+
+
+## Experience
+
+ServiceNow, Inc. | Software Engineer | Jun 2023 - present
+
+Disruptive Sports Agency | Data Research Intern | Dec 2022 - Jul 2023

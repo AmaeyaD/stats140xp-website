@@ -2,18 +2,24 @@ project:
   type: website
 
 website:
-  title: "Personal Website"
+  title: "Amaeya Deshpande"
   navbar:
-    left:
+    right:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Projects
+      - href: about.qmd
+        text: About
+  page-footer: 
+    right: "&copy; 2024, Amaeya Deshpande"
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
+    
+execute: 
+  freeze: auto
 
 
 

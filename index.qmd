@@ -1,11 +1,24 @@
 ---
-title: "Personal Website"
+title: "Projects"
+toc: false
+listing: 
+  - id: 102c-listing
+    contents: 
+      - "/102c/*.Rmd"
+    sort: true
+    sort-ui: false
+    filter-ui: false
+    type: table
+    fields: 
+      - title
+    categories: false
 ---
 
-This is a Quarto website.
+### Stats 102C Assignments
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::102c-listing
+:::
 
-```{r}
-1 + 1
-```
+
+
+
